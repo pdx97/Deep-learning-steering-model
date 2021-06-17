@@ -25,6 +25,10 @@
 <h3>Prototype </h3>
 <img src="https://github.com/pdx97/Deep-learning-steering-model/blob/master/Images_and_Video/CNNmodel.PNG" alt="Prototype_Image">
 
+<h3>Video Prototype</h3>
+<hr>
+<a href="https://photos.app.goo.gl/WZrQZe3x7R4xRqae7">Video_Prototype</a>
+
 
 
 
